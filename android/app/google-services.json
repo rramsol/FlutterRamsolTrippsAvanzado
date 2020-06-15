@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497554759118",
+    "firebase_url": "https://flutterramsoltrips.firebaseio.com",
+    "project_id": "flutterramsoltrips",
+    "storage_bucket": "flutterramsoltrips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497554759118:android:3dead6d80a1cbc3a20df9f",
+        "android_client_info": {
+          "package_name": "ramsoltripssapp.ramsol.ramsoltrippsavanzado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497554759118-1abb27ib48i0odkvrppndre4kmq59fti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ramsoltripssapp.ramsol.ramsoltrippsavanzado",
+            "certificate_hash": "969c501db02e8d4f92fc1ff10bd4feb45e60592d"
+          }
+        },
+        {
+          "client_id": "497554759118-a23ktqt7tbickobch4c53o5sm9oe59qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQRqI2Htd3H090-_KMMMQcKYPSe1jB4Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497554759118-a23ktqt7tbickobch4c53o5sm9oe59qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
